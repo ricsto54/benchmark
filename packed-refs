@@ -1,0 +1,10 @@
+# pack-refs with: peeled fully-peeled sorted 
+e084b0314339aee411f7f968cb7a97d0cd0eec8c refs/heads/master
+4678cbfc6d388be0bf18b575dbe2ff2936ad7019 refs/heads/snyk-fix-00bd83a2f759af41b9132e5ffa46b603
+305a542f1762de85dff381e1ea474244f3dec531 refs/heads/snyk-fix-3d90b198ca050f0acd1cd6fea46fa57b
+feafe9d6aab679eab8dec1cc4777f555739046a1 refs/tags/1.0
+9237080ac410a072ca1342b21b4701b3decfd75a refs/tags/1.1
+edf6bd8032af691b28b2b763b7c5470b60075313 refs/tags/1.1final
+^da9dbaa896039f9220d6e15ee0efaddb5a479a04
+ddc1da93b2be89b894dbf6383e24ca31094b2002 refs/tags/1.2beta
+^2734ae486356765ea4e45393a28e20bcb5047f8c
